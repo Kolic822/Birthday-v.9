@@ -1,7 +1,4 @@
-# Birthday-v.9
-Deveti rođendan kumova
-
-UZVANICI:
+# Uzvanici
 
 1. Fran Komlinović
 2. Teo Kolić
