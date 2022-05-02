@@ -44,3 +44,4 @@
 42. Domagoj Licitar
 43. Filip Žugaj
 44. Karin Antonaz
+45. Danijel Kolarec
