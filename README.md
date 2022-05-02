@@ -33,7 +33,7 @@ UZVANICI:
 28. Sanja Ivičić
 29. Marko Nedug
 30. Bobo Novaković
-31. Kristijan Freiberger
+31. Kristijan Federbauer
 32. Stjepan Kostrić
 33. Dino Avdić
 34. Katarina Avdić
