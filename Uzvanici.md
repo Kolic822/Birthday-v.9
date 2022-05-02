@@ -41,3 +41,6 @@
 39. Matej Pipalović
 40. Igor Pavleković
 41. Dijana Pavleković
+42. Domagoj Licitar
+43. Filip Žugaj
+44. Karin Antonaz
